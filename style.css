@@ -1,0 +1,97 @@
+
+
+
+body
+{
+    text-align: center;
+    
+    background: #6A9113;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #141517, #6A9113);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #141517, #6A9113); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color:white;  
+    
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+   
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999;
+    display: inline-block;
+}
+
+input
+{
+    background: grey;
+}
+.carousel inner p{
+    margin-bottom: 15px;
+       margin-top: 15px;
+       color:white;
+       font-size: 20px;
+   }
+   
+#img_alumni_1{
+    width:70%;
+    height:80%;
+}
+#img_alumni_2{
+    width:70%;
+    height:80%;
+}
+#img_alumni_3{
+    width:70%;
+    height:80%;
+}
+#img_alumni_4{
+    width:70%;
+    height:80%;
+}
+#img_alumni_5{
+    width:70%;
+    height:80%;
+}
